@@ -6,6 +6,6 @@ Includes deployment and service YAML files to define the microservice deployment
 2. Terraform Configurations:
 Contains Terraform configurations for provisioning the Cloud SQL instance in GCP.
 Includes .tf files to define the required GCP resources such as Cloud SQL instance, database, and necessary permissions.
-3. Flask app
+3. Flask app:
 Flask web application written in python that exposes an endpoint returning the current date and time in UTC format.
 Related dependencies needed to run the python code.
