@@ -1,4 +1,4 @@
-For this technical challenge, I was tasked with deploying a simple RESTful microservice called "SampleApp" to a Kubernetes cluster hosted on Google Kubernetes Engine (GKE) in Google Cloud Platform (GCP). Additionally, I needed to provision related infrastructure resources for the purposes of running a GCP Cloud SQL database using Terraform.
+For this challenge, I was tasked with deploying a simple RESTful microservice called "SampleApp" to a Kubernetes cluster hosted on Google Kubernetes Engine (GKE) in Google Cloud Platform (GCP). Additionally, I needed to provision related infrastructure resources for the purposes of running a GCP Cloud SQL database using Terraform.
 Repository Contents:
 1. Kubernetes Manifests:
 Contains Kubernetes manifests for deploying the "SampleApp" microservice to a GKE cluster.
